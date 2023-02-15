@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bemadji&label=Profile%20views&color=0e75b6&style=flat" alt="bemadji" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bemadji" alt="bemadji" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bemadji" alt="bemadji" /></a><a href=" https://bemadji.github.io/My_first-site/</a>" </p>
 
 - 📫 Vous pouvez me contacter à l'adresse suivante: **bmdarsene@gmail.com**
 
