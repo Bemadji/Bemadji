@@ -1,11 +1,11 @@
-<h1 align="center">Salut 👋, Je suis Bemadji Arsène</h1>
-<h3 align="center">Je suis un jeune-homme très passionné de la technologie informatiue et particulièrement de Data,le Big Data, l'IA,le Dévelopemment Web.</h3>
+<h1 align="center">Hi 👋, I am Bemadji Arsène</h1>
+<h3 align="center">I am a Data Developer passionate about computer programming, data and technology..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bemadji&label=Profile%20views&color=0e75b6&style=flat" alt="bemadji" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bemadji" alt="bemadji" /></a><a href=" https://bemadji.github.io/My_first-site/</a>" </p>
 
-- 📫 Vous pouvez me contacter à l'adresse suivante: **bmdarsene@gmail.com**
+- 📫 You can contact me at the following address: **bmdarsene@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
